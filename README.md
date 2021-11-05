@@ -20,19 +20,18 @@
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
-
-
+<a href="https://www.python.org/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg#/media/File:Python-logo-notext.svg" alt="python" width="33" height="30"/> </a>  
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg#/media/File:Pandas_logo.svg" alt="pandas" width="33" height="30"/> </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="seaborn" width="26" height="26"/> </a>
+  <a href="https://matplotlib.org/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Created_with_Matplotlib-logo.svg#/media/File:Created_with_Matplotlib-logo.svg" alt="matplotlip" width="26" height="26"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
-<a href="https://material-ui.com/" target="_blank"> <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="material-ui" width="26" height="26"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-<a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> </a> 
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
 
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
-<a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="30" height="30"/> </a> 
+
 
 
 
