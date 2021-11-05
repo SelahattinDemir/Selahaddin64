@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selahattin</h1>
-<h3 align="center">A Developer from Turkey</h3>
+<h3 align="center">A Software Developer from Turkey</h3>
 
-<div align="center"><img src="https://media4.giphy.com/media/C5hL7OSWyACFW/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&rid=giphy.gif&ct=g" width="280" height="230"  /> </div>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Selahattin64" alt="Selahattin64" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Selahattin64&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="Selahattin64" /></a> </p>
 
 🌱 I’m currently learning **React Native, Node.js, Javascript etc.**
 
