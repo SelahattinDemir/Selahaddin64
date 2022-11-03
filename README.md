@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/selahattindemir/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="selahattindemir" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/selahattindemir/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png" alt="selahattindemir" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/17336033" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="17336033" height="45" width="45" /></a>
 <a href="https://instagram.com/selahaddin_dm" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="selahaddin_dm" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/Selahaddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Selahaddin" height="30" width="40" /></a>
