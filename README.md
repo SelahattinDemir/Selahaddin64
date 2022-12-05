@@ -18,6 +18,7 @@
 <a href="https://coderspace.io/ozet" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEl43Wpv6FYrQ/company-logo_200_200/0/1646925558305?e=2147483647&v=beta&t=dtwfEJzMPKyFx7rB8VAFxn8Iea6BuyWRyiluV4S1eNo" alt="coderspace" height="30" width="30" /></a>
 <a href="https://selahattindemir.medium.com/" target="blank"><img align="center" src="https://miro.medium.com/max/2400/1*6_fgYnisCa9V21mymySIvA.png" alt="medium" height="30" width="30" /></a>
 <a href="https://www.freecodecamp.org/Selahaddin" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/MoaYYQjGtmGLhG9HbjCDKyj44kwHj1HfbCI2Am70elRm35vJ-u4y4X5uEJjP97MAAsU" alt="freecodecamp" height="30" width="30" /></a>
+<a href="https://www.freecodecamp.org/Selahaddin" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4" alt="datacamp" height="40" width="40" /></a>
 <a href="https://app.patika.dev/Selahaddin64" target="blank"><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="patika" height="50" width="50" /></a>
 </p>
 
