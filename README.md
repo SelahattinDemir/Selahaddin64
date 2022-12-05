@@ -16,6 +16,9 @@
 <a href="https://coderbyte.com/profile/Selahaddin64" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--aOxxf45v--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1155/daee822c-2c89-4fd4-98f3-b58afb56bbef.jpg" alt="coderbyte" height="50" width="50" /></a>
 <a href="https://www.hackerrank.com/Selahaddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Selahaddin" height="30" width="40" /></a>
 <a href="https://coderspace.io/ozet" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEl43Wpv6FYrQ/company-logo_200_200/0/1646925558305?e=2147483647&v=beta&t=dtwfEJzMPKyFx7rB8VAFxn8Iea6BuyWRyiluV4S1eNo" alt="coderspace" height="30" width="30" /></a>
+<a href="https://selahattindemir.medium.com/" target="blank"><img align="center" src="https://miro.medium.com/max/2400/1*6_fgYnisCa9V21mymySIvA.png" alt="medium" height="30" width="30" /></a>
+<a href="https://www.freecodecamp.org/Selahaddin" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/MoaYYQjGtmGLhG9HbjCDKyj44kwHj1HfbCI2Am70elRm35vJ-u4y4X5uEJjP97MAAsU" alt="freecodecamp" height="30" width="30" /></a>
+<a href="https://app.patika.dev/Selahaddin64" target="blank"><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="patika" height="50" width="50" /></a>
 </p>
 
 
