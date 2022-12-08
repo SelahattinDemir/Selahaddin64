@@ -20,6 +20,7 @@
 <a href="https://www.freecodecamp.org/Selahaddin" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/MoaYYQjGtmGLhG9HbjCDKyj44kwHj1HfbCI2Am70elRm35vJ-u4y4X5uEJjP97MAAsU" alt="freecodecamp" height="30" width="30" /></a>
 <a href="https://www.freecodecamp.org/Selahaddin" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4" alt="datacamp" height="40" width="40" /></a>
 <a href="https://app.patika.dev/Selahaddin64" target="blank"><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="patika" height="50" width="50" /></a>
+<a href="https://gelecegiyazanlar.turkcell.com.tr/kisi/selahaddindemir" target="blank"><img align="center" src="https://gelecegiyazanlar.turkcell.com.tr/sites/default/files/user/profile/AMBLEM_SARI.jpg" alt="geleceği yazanlar" height="40" width="40" /></a>
 </p>
 
 
